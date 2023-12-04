@@ -1,0 +1,4 @@
+Django==5.0
+djangorestframework==3.14.0
+django-nested-admin==4.0.2
+django-cors-headers==4.3.1
